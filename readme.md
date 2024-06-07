@@ -18,3 +18,7 @@ Installer les extensions VS Code
 
 ```npm init adonisjs@latest project-name```  
 Modifier le fichier .env pour ajouter le nom de la base de données & le mot de passe. 
+
+# Lancer le projet 
+
+```node ace serve --hmr ```     
