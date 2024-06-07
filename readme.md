@@ -21,4 +21,8 @@ Modifier le fichier .env pour ajouter le nom de la base de données & le mot de 
 
 # Lancer le projet 
 
-```node ace serve --hmr ```     
+```node ace serve --hmr ```
+
+
+
+
