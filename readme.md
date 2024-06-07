@@ -9,6 +9,10 @@ _Installer redis (redis.io) un système de stockage en cache_
 	_sudo service redis-server start_
 	_Pour lancer le service_
 
+Installer les extensions VS Code 
+* AdonisJS
+* Edge Template
+* Japa
 
 # Créér un projet 
 
