@@ -6,8 +6,7 @@ Installer un driver de BDD => PostgeSQL ici (https://www.postgresql.org/)
 
 _Installer redis (redis.io) un système de stockage en cache_ 
 	_sudo service redis-server start_
-	_Pour lancer le service_
-
+	_Pour lancer le service_  
 
 # Créér un projet 
 
