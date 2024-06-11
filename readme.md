@@ -5,9 +5,9 @@ Installer NodeJS (https://nodejs.org/en/download/prebuilt-installer)
 Installer un driver de BDD => PostgeSQL ici (https://www.postgresql.org/)  
 Lancer pgAdmin et créér une base de données (servers => Database => create)  
 
-_Installer redis (redis.io) un système de stockage en cache_ 
-	_sudo service redis-server start_
-	_Pour lancer le service_
+Installer redis (redis.io) un système de stockage en cache 
+_sudo service redis-server start_
+Pour lancer le service
 
 Installer les extensions VS Code 
 * AdonisJS
