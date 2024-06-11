@@ -10,7 +10,7 @@ _sudo service redis-server start_
 Pour lancer le service
 
 Installer tailwindCSS pour les classes CSS    
-_npm install -D tailwindcss postcss autoprefix_
+_npm install -D tailwindcss postcss autoprefixer_
 
 Installer les extensions VS Code 
 * AdonisJS
@@ -26,6 +26,10 @@ Initialiser tailwindcss
 _npx tailwindcss init -p_
 Modifier le fichier tailwind.config.js créér par la commande en ajoutant les extensions à surveiller 
 ```content: ['./resources/**/*.{edge,js,ts,jsx,vue}'],```
+Modifier le fichier app.css pour ajouter le reset CSS   
+```@tailwind base; 
+@tailwind components; 
+@tailwind utilities; ```
 
 # Lancer le projet 
 
