@@ -27,9 +27,11 @@ _npx tailwindcss init -p_
 Modifier le fichier tailwind.config.js créér par la commande en ajoutant les extensions à surveiller 
 ```content: ['./resources/**/*.{edge,js,ts,jsx,vue}'],```
 Modifier le fichier app.css pour ajouter le reset CSS   
-```@tailwind base; 
+```
+@tailwind base; 
 @tailwind components; 
-@tailwind utilities; ```
+@tailwind utilities;
+```
 
 # Lancer le projet 
 
